@@ -1,0 +1,6 @@
+/.genkit
+/node_modules
+/database/list.sql
+/debug
+.env
+/based
